@@ -2,12 +2,12 @@
 A Shopping List Application using Flask
 
 ## To Do
-Note: To be done after part 1
 - Create a new Repo in which you will develop a Flask API.
 Note: From here onwards, you’re expected to practise Test-Driven Development.
 - Create models for the data which the API will be manipulating using SQLAlchemy.
 - Implement data persistence using Postgresql
 - Create a RESTful API using Flask with Endpoints that:
+
 a. Enable users to create accounts and login into the application
 
 EndPoint | Public Access
